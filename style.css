@@ -1,0 +1,113 @@
+.heading{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    border-top: rgb(96, 89, 89) solid 4px;
+}
+.card__img{
+    width: 200px;
+    height: 200px;
+}
+.card__desc{
+    width: 200px;
+    text-align: center;
+}
+.card__button{
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+}
+.card{
+    border: black solid 2px;
+    height: 315px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 150px;
+    display: inline-block;
+}
+.card--one__img{
+    width: 200px;
+    height: 200px;
+}
+.card--one__desc{
+    width: 200px;
+    text-align: center;
+}
+.card--one__button{
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+}
+.card--one{
+    border: black solid 2px;
+    height: 315px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 100px;
+    display: inline-block;
+}
+
+.card--two__img{
+    width: 200px;
+    height: 200px;
+}
+.card--two__desc{
+    width: 200px;
+    text-align: center;
+}
+.card--two__button{
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+}
+.card--two{
+    border: black solid 2px;
+    height: 315px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 100px;
+    display: inline-block;
+}
+
+.card--three__img{
+    width: 200px;
+    height: 200px;
+}
+.card--three__desc{
+    width: 200px;
+    text-align: center;
+}
+.card--three__button{
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+}
+.card--three{
+    border: black solid 2px;
+    height: 315px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 100px;
+    display: inline-block;
+}
+.form{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    border-bottom: rgb(96, 89, 89) solid 4px;
+}
+.form__desc{
+    padding-left: 550px;
+}
+.form__send{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: greenyellow;
+    color: white;
+    border: black solid 1px;
+}
+
